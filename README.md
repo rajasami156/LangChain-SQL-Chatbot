@@ -37,3 +37,5 @@ Now create the full chain that allows chatting with the database using natural l
 In this tutorial, we learned how to chat with a MySQL database using Python and LangChain. For detailed steps and explanations, refer to the full tutorial linked below.
 
 For more details, you can also refer to the tutorial on Chat with MySQL using Python and LangChain.
+
+https://alejandro-ao.com/chat-with-mysql-using-python-and-langchain/
